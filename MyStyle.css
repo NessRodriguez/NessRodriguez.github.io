@@ -67,8 +67,8 @@ li a:hover:not(.active) {
 
 
 div.absolute {
-    position: absolute;
-    bottom: 10px;
+    position: fixed;
+    bottom: 0px;
     right: 15px;
     width: 50%;
 }
